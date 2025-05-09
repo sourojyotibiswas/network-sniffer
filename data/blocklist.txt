@@ -1,0 +1,4 @@
+phishing-example.com
+secure-update.net
+paypal-login.info
+login-verify-account.org
